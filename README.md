@@ -180,6 +180,11 @@ Dashboard will open at:
 
 #  Screenshots
 
+
+
+https://github.com/user-attachments/assets/08cf83d8-67d1-41e1-9546-ebd1cb427274
+
+
 ## Dashboard
 
 <img width="1792" height="1120" alt="Screenshot 2026-02-27 at 7 23 08 AM" src="https://github.com/user-attachments/assets/615071d7-1ca8-4f46-8dc6-266a7582fce8" />
