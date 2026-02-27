@@ -33,9 +33,8 @@ The project simulates a real-world scenario where AI augments decision-making in
 
 #  Architecture
 
-User → Streamlit UI → FastAPI Backend → SQL Server
-↘
-AI Model (Ollama)
+<img width="1749" height="326" alt="mermaid-diagram (1)" src="https://github.com/user-attachments/assets/b791e08d-fb64-4322-9020-b8ff7612a4ea" />
+
 
 ---
 
@@ -182,7 +181,11 @@ Dashboard will open at:
 
 
 
-https://github.com/user-attachments/assets/08cf83d8-67d1-41e1-9546-ebd1cb427274
+
+https://github.com/user-attachments/assets/aa09be6d-51f4-4e54-8e33-d0ff7d6cd32d
+
+
+
 
 
 ## Dashboard
