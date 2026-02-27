@@ -21,13 +21,13 @@ The project simulates a real-world scenario where AI augments decision-making in
 
 #  Key Features
 
-✅ FastAPI backend with REST endpoints
-✅ SQL Server database integration
-✅ AI question answering using local LLM (Ollama + Llama)
-✅ Automated inventory summaries
-✅ Streamlit analytics dashboard
-✅ Docker environment support
-✅ Clean modular project structure
+ *FastAPI backend with REST endpoints
+ *SQL Server database integration
+ *AI question answering using local LLM (Ollama + Llama)
+ *Automated inventory summaries
+ *Streamlit analytics dashboard
+ *Docker environment support
+ *Clean modular project structure
 
 ---
 
@@ -68,7 +68,7 @@ AI Model (Ollama)
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```
 inventory-ai-assistant/
@@ -88,7 +88,7 @@ inventory-ai-assistant/
 
 ---
 
-# ⚙️ Setup Instructions
+#  Setup Instructions
 
 ## 1️ Clone the repository
 
@@ -178,38 +178,38 @@ Dashboard will open at:
 
 ---
 
-# 📸 Screenshots
+#  Screenshots
 
 ## Dashboard
 
-*Add screenshot here*
+<img width="1792" height="1120" alt="Screenshot 2026-02-27 at 7 23 08 AM" src="https://github.com/user-attachments/assets/615071d7-1ca8-4f46-8dc6-266a7582fce8" />
+
 
 ## AI Chat
 
-*Add screenshot here*
+<img width="1792" height="1120" alt="Screenshot 2026-02-27 at 7 23 26 AM" src="https://github.com/user-attachments/assets/4b9194b3-20bf-4f96-9d03-f475fb176db6" />
+<img width="1792" height="1120" alt="Screenshot 2026-02-27 at 6 29 49 AM" src="https://github.com/user-attachments/assets/4dd0bb43-516f-423d-86ed-2be227a1015b" />
+<img width="1792" height="1120" alt="Screenshot 2026-02-27 at 6 32 38 AM" src="https://github.com/user-attachments/assets/e03c0757-e70a-4cfa-a899-5446b36c4548" />
+<img width="1792" height="1120" alt="Screenshot 2026-02-27 at 7 26 44 AM" src="https://github.com/user-attachments/assets/c93a1e94-6adf-4f88-804d-20aba8c0ee26" />
 
-## API Docs
 
-*Add screenshot here*
 
-## Architecture Diagram
 
-*Add screenshot here*
 
----
+
 
 # 🧪 How It Works
 
-1️⃣ Streamlit sends user question
-2️⃣ FastAPI receives request
-3️⃣ API queries SQL database
-4️⃣ Data sent to LLM
-5️⃣ AI generates explanation
-6️⃣ Response returned to UI
+1️) Streamlit sends user question
+2️) FastAPI receives request
+3️) API queries SQL database
+4️) Data sent to LLM
+5️) AI generates explanation
+6️) Response returned to UI
 
 ---
 
-# 📈 Future Improvements
+#  Future Improvements
 
 * Role-based authentication
 * Real-time data streaming
@@ -220,7 +220,7 @@ Dashboard will open at:
 
 ---
 
-# 🔐 Security Notes
+#  Security Notes
 
 This project uses local credentials and is intended for demonstration purposes.
 
@@ -232,7 +232,7 @@ For production:
 
 ---
 
-# 🌍 Scalability Vision
+#  Scalability Vision
 
 The system can evolve into a production-grade platform by:
 
@@ -243,7 +243,7 @@ The system can evolve into a production-grade platform by:
 
 ---
 
-# 🎯 Portfolio Value
+#  Portfolio Value
 
 This project demonstrates:
 
@@ -255,7 +255,7 @@ This project demonstrates:
 
 ---
 
-# 🙌 Credits
+#  Credits
 
 Developed by **Sohila Ahmed**
 
@@ -263,7 +263,7 @@ Built as an end-to-end AI + Data Engineering portfolio project.
 
 ---
 
-# 📜 License
+#  License
 
 This project is licensed under the MIT License.
 
